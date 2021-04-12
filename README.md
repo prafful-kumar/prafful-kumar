@@ -5,7 +5,7 @@
 
 # Hello! 👋
 
-My name is Prafful Kumar Khoba and I'm doing Masters in Communication Systems from Indian Institute of Technology Roorkee, India. 
+ 
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -14,6 +14,12 @@ My name is Prafful Kumar Khoba and I'm doing Masters in Communication Systems fr
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=2bbc8a)
 
+
+* My name is Prafful Kumar Khoba and I'm doing Masters in Communication Systems from Indian Institute of Technology Roorkee, India. :satellite:
+
+* I have done multiple projects ranging from the Encoder-Decoder CNN , Image recognition ResNet, Image Fusion .
+
+* My research interest areas are computer vision particularly Deep Learning and Machine Vision.
 
 
 
