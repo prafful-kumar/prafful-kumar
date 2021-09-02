@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=2bbc8a)
 
 
-* My name is Prafful Kumar Khoba and I'm doing Masters in Communication Systems from Indian Institute of Technology Roorkee, India. :satellite:
+* My name is Prafful Kumar Khoba and I have completed my post-graduation in ECE from Indian Institute of Technology Roorkee, India. :satellite:
 
 * I have done multiple projects ranging from the Encoder-Decoder CNN , Image recognition ResNet, Image Fusion .
 
