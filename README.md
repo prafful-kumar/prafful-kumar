@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><strong>💻 Tech Stack</strong></td>
-      <td>PyTorch | CUDA | HuggingFace | DeepSpeed | Transformers | Diffusion Models | Computer Vision</td>
+      <td>PyTorch | CUDA | HuggingFace | DeepSpeed | Transformers | Computer Vision</td>
     </tr>
   </table>
 </div>
@@ -94,7 +94,6 @@
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge)
 ![Vision-Language Models](https://img.shields.io/badge/VLMs-4ECDC4?style=for-the-badge)
-![Diffusion Models](https://img.shields.io/badge/Diffusion-F38181?style=for-the-badge)
 ![Model Optimization](https://img.shields.io/badge/Optimization-95E1D3?style=for-the-badge)
 
 </div>
@@ -138,7 +137,7 @@
 ## 💬 Open To
 
 - 🤝 Research collaborations on vision-language models and transferability estimation
-- 📊 Discussions on transfer learning, model efficiency & diffusion models
+- 📊 Discussions on transfer learning, model efficiency
 - 🎯 Contributing to open-source vision projects
 - 📚 Mentoring and knowledge sharing
 
