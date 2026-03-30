@@ -15,11 +15,8 @@
         <li>🧠 Mixture-of-Experts (MoE) Architectures</li>
         <li>⚡ Parameter-Efficient Fine-Tuning (PEFT)</li>
         <li>🎯 Transfer Learning & Model Optimization</li>
+        <li>🖼️ Diffusion Models & Transferability Estimation</li>
       </ul>
-      <p><strong>Previous:</strong> M.Tech from IIT Roorkee</p>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prafful-kumar&show_icons=true&theme=dark&hide_border=true&hide=contribs&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -32,7 +29,7 @@
   <table>
     <tr>
       <td><strong>🎯 Primary Interest</strong></td>
-      <td>Transferability estimation and efficient fine-tuning of vision-language models using sparse architectures (MoE)</td>
+      <td>Transferability estimation and efficient fine-tuning of vision-language models using sparse architectures (MoE) and diffusion-guided approaches</td>
     </tr>
     <tr>
       <td><strong>🔧 Current Work</strong></td>
@@ -40,7 +37,7 @@
     </tr>
     <tr>
       <td><strong>💻 Tech Stack</strong></td>
-      <td>PyTorch | CUDA | HuggingFace | DeepSpeed | Transformers | Computer Vision</td>
+      <td>PyTorch | CUDA | HuggingFace | DeepSpeed | Transformers | Diffusion Models | Computer Vision</td>
     </tr>
   </table>
 </div>
@@ -58,88 +55,20 @@
   <tr>
     <td align="center">🏆<br><strong>ICCV 2025</strong></td>
     <td>
-      <strong><a href="https://github.com/prafful-kumar/PEFT_SELECTION">PEFT_SELECTION</a></strong><br>
-      <em>Estimating Transfer Learning Potential via Fisher Information of Pre-trained Classifiers</em>
+      <strong><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Khoba_PEFTDiff_Diffusion-Guided_Transferability_Estimation_for_Parameter-Efficient_Fine-Tuning_ICCV_2025_paper.pdf">PEFTDiff</a></strong><br>
+      <em>Diffusion-Guided Transferability Estimation for Parameter-Efficient Fine-Tuning</em>
     </td>
     <td align="center">✅<br>Published</td>
   </tr>
   <tr>
     <td align="center">🎤<br><strong>WACV 2025</strong></td>
     <td>
-      <strong><a href="https://github.com/prafful-kumar/enhancing_TE">enhancing_TE</a></strong><br>
-      <em>Enhancing Transfer Estimation Through Multi-Task Learning</em>
-    </td>
-    <td align="center">🎤<br>Oral</td>
-  </tr>
-  <tr>
-    <td align="center">📊<br><strong>ICVGIP 2022</strong></td>
-    <td>
-      <strong><a href="https://github.com/iHubData-Mobility/public-FGVD">FGVD Dataset</a></strong><br>
-      <em>Fine-Grained Vehicle Detection Dataset</em>
+      <strong><a href="https://openaccess.thecvf.com/content/WACV2025/papers/Khoba_Feature_Space_Perturbation_A_Panacea_to_Enhanced_Transferability_Estimation_WACV_2025_paper.pdf">Feature Space Perturbation</a></strong><br>
+      <em>A Panacea to Enhanced Transferability Estimation</em>
     </td>
     <td align="center">✅<br>Published</td>
   </tr>
 </table>
-
----
-
-## 🌟 Featured Projects
-
-<details open>
-<summary><strong>🔴 Active Research</strong></summary>
-
-### [MoE-LLaVA](https://github.com/prafful-kumar/MoE-LLaVA)
-**Mixture-of-Experts Vision-Language Models with Fisher-Optimized Routing**
-- Implementing sparse expert systems for efficient multimodal learning
-- Focus: Router initialization via Fisher Linear Discriminant Analysis
-- Entropy regularization for expert specialization
-- Benchmarks: VQAv2, POPE, MMBench
-- Models: Qwen-1.8B, Phi-2, StableLM
-
-</details>
-
-<details open>
-<summary><strong>⭐ Key Publications</strong></summary>
-
-### [PEFT_SELECTION](https://github.com/prafful-kumar/PEFT_SELECTION) – ICCV 2025
-Parameter-efficient fine-tuning method selection using Fisher information
-- **5 stars** | Published at ICCV 2025
-- [Repository](https://github.com/prafful-kumar/PEFT_SELECTION)
-
-### [enhancing_TE](https://github.com/prafful-kumar/enhancing_TE) – WACV 2025
-Transfer estimation enhancement through multi-task learning approaches
-- **Oral Presentation** at WACV 2025 (top ~8%)
-- [Repository](https://github.com/prafful-kumar/enhancing_TE)
-
-</details>
-
-<details>
-<summary><strong>🎯 Other Notable Projects</strong></summary>
-
-### [Blurred-Image-Recognition](https://github.com/prafful-kumar/Blurred-Image-Recognition)
-U-Net architecture implementation for image deblurring and restoration
-- **8 stars** | Jupyter Notebook implementation
-- [Repository](https://github.com/prafful-kumar/Blurred-Image-Recognition)
-
-### [Public FGVD](https://github.com/iHubData-Mobility/public-FGVD) – ICVGIP 2022
-Fine-Grained Vehicle Detection Dataset
-- **23 stars** | Community-driven dataset
-- [Repository](https://github.com/iHubData-Mobility/public-FGVD)
-
-</details>
-
----
-
-## 💡 Technical Expertise
-
-```
-Deep Learning          ████████████████████░░░░  90%
-Computer Vision        ████████████████████░░░░  90%
-Vision-Language Models ████████████████░░░░░░░░  80%
-Model Optimization     █████████████████░░░░░░░  85%
-PyTorch/CUDA           ████████████████████░░░░  90%
-Research & Papers      █████████████████░░░░░░░  85%
-```
 
 ---
 
@@ -165,20 +94,8 @@ Research & Papers      █████████████████░░
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge)
 ![Vision-Language Models](https://img.shields.io/badge/VLMs-4ECDC4?style=for-the-badge)
+![Diffusion Models](https://img.shields.io/badge/Diffusion-F38181?style=for-the-badge)
 ![Model Optimization](https://img.shields.io/badge/Optimization-95E1D3?style=for-the-badge)
-![Knowledge Distillation](https://img.shields.io/badge/Distillation-F38181?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafful-kumar&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=prafful-kumar&theme=dark&hide_border=true)
 
 </div>
 
@@ -188,11 +105,9 @@ Research & Papers      █████████████████░░
 
 <div align="center">
 
-[📧 Email](mailto:prafful.kumar@iitd.ac.in) • 
-[🔬 Google Scholar](https://scholar.google.com) • 
-[💼 LinkedIn](https://linkedin.com/in/prafful-kumar) • 
-[🐦 Twitter/X](https://twitter.com) • 
-[📝 CV](https://github.com/prafful-kumar)
+[📧 Email](mailto:khobaiit@gmail.com) • 
+[🔬 Google Scholar](https://scholar.google.com/citations?user=5fMqPKoAAAAJ&hl=en) • 
+[💼 LinkedIn](https://www.linkedin.com/in/prafful-kumar-khoba-b06434104/?skipRedirect=true)
 
 </div>
 
@@ -202,7 +117,7 @@ Research & Papers      █████████████████░░
 
 - 📚 Advanced Vision Transformer architectures
 - 🚀 Efficient deployment of large multimodal models
-- 🔍 Novel router initialization strategies for MoE systems
+- 🔍 Diffusion-guided approaches for model evaluation
 - 💬 Prompt engineering and in-context learning
 - 🤖 Emerging trends in multimodal AI
 
@@ -212,9 +127,9 @@ Research & Papers      █████████████████░░
 
 | **Degree** | **Institution** | **Duration** | **Focus** |
 |-----------|----------------|------------|----------|
-| 🎓 PhD (ongoing) | IIT Delhi + University of Queensland (UQIDAR) | 2022-2026 | Vision-Language Models, MoE, Transfer Learning |
-| 🎓 M.Tech | IIT Roorkee | 2020-2022 | Computer Vision & Deep Learning |
-| 🎓 B.Tech | — | — | — |
+| 🎓 PhD (ongoing) | IIT Delhi + University of Queensland (UQIDAR) | 2022-2026 | Vision-Language Models, Transfer Learning, PEFT |
+| 🎓 M.Tech | IIT Roorkee | 2018-2020 | Communication Systems |
+| 🎓 B.Tech | Delhi Technological University (DTU), New Delhi | 2014-2018 | Electronics and Communication |
 
 **Advisors:** Prof. Chetan Arora (IIT Delhi), Prof. Mahsa Baktashmotlagh (UQ)
 
@@ -222,8 +137,8 @@ Research & Papers      █████████████████░░
 
 ## 💬 Open To
 
-- 🤝 Research collaborations on vision-language models
-- 📊 Discussions on transfer learning & model efficiency
+- 🤝 Research collaborations on vision-language models and transferability estimation
+- 📊 Discussions on transfer learning, model efficiency & diffusion models
 - 🎯 Contributing to open-source vision projects
 - 📚 Mentoring and knowledge sharing
 
@@ -233,7 +148,7 @@ Research & Papers      █████████████████░░
 
 ### ⭐ If you find my work useful, consider starring relevant repositories!
 
-**[View All Repositories](https://github.com/prafful-kumar?tab=repositories)** | **[Follow on GitHub](https://github.com/prafful-kumar)**
+**[View All Repositories](https://github.com/prafful-kumar)** | **[Follow on GitHub](https://github.com/prafful-kumar)**
 
 ---
 
