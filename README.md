@@ -15,7 +15,7 @@
         <li>🧠 Mixture-of-Experts (MoE) Architectures</li>
         <li>⚡ Parameter-Efficient Fine-Tuning (PEFT)</li>
         <li>🎯 Transfer Learning & Model Optimization</li>
-        <li>🖼️ Diffusion Models & Transferability Estimation</li>
+        <li>🖼️ Transferability Estimation</li>
       </ul>
     </td>
   </tr>
